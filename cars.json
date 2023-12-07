@@ -1,0 +1,45 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "make": "BMW",
+        "model": "E46 325I",
+        "year": 2001,
+        "price": 1500,
+        "description": "Geras winterbeateris, virintas reduktorius, naujos ziemines padangos, tehas dar pusei metu."
+      },
+      {
+        "id": 2,
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2003,
+        "price": 700,
+        "description": "parduodu nes policijai nepatiko tiesus ismetimas, atimta tehnikine"
+      },
+      {
+        "id": 3,
+        "make": "Ford",
+        "model": "Focus",
+        "year": 2000,
+        "price": 500,
+        "description": "nesikuria, pradejo rodyt fokusus"
+      },
+      {
+        "id": 4,
+        "make": "BMW",
+        "model": "E39 530D",
+        "year": 2002,
+        "price": 2300,
+        "description": "ka tik nuo tralo is vokietijos, sedi ir vaziuoji, rida tikra 250 tukstanciu"
+      },
+      {
+        "id": 5,
+        "make": "BMW",
+        "model": "E36 325",
+        "year": 1992,
+        "price": 5000,
+        "description": "tikras 325 be vanusu,sudeti lankai, yra sport pasas"
+      }
+      
+    ]
+  }
